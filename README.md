@@ -1,2 +1,2 @@
 # Teknologi_Basis_Data
-Tugas dan materi kuliah PTeknologi Basis Data - TI Semester I
+Tugas dan materi kuliah Teknologi Basis Data - TI Semester I
