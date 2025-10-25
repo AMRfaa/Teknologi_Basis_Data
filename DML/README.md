@@ -1,0 +1,3 @@
+# Perintah DDL
+
+# Perintah DML
